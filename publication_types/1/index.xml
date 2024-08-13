@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>1 | Jiawang Li</title>
+    <link>//localhost:1313/publication_types/1/</link>
+      <atom:link href="//localhost:1313/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
+    <description>1</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jun 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>//localhost:1313/img/ybg.jpg</url>
+      <title>1</title>
+      <link>//localhost:1313/publication_types/1/</link>
+    </image>
+    
+    <item>
+      <title>Single-layer Millimeter Wave Filtenna with Quasi- Elliptic Gain Response Under Dual-mode Resonance</title>
+      <link>//localhost:1313/publication/single-layer-millimeter-wave-filtenna/</link>
+      <pubDate>Sat, 01 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/publication/single-layer-millimeter-wave-filtenna/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Millimeter-Wave Ultrawideband Antenna With Hybrid-Mode Resonance Including Microstrip Line, Slot, Patches, and Quasi-Monopole Modes</title>
+      <link>//localhost:1313/publication/uwb_hybrid_mode/</link>
+      <pubDate>Wed, 01 May 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/publication/uwb_hybrid_mode/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Low-Profile UWB Millimeter-Wave Antenna Array Under Triple Resonant Modes Based on PCB Technology</title>
+      <link>//localhost:1313/publication/uwb_triple_modes/</link>
+      <pubDate>Sat, 16 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/publication/uwb_triple_modes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Miniaturized Dual-Polarized Active Phased Array Antenna for 5G Millimeter-Wave Applications</title>
+      <link>//localhost:1313/publication/miniaturized_dual_polarized_phased_array/</link>
+      <pubDate>Wed, 01 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/publication/miniaturized_dual_polarized_phased_array/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Millimeter-wave filtenna for 5G application with multiple controllable radiation nulls and wide stopband</title>
+      <link>//localhost:1313/publication/filtenna_mmwave_multiple_radiation_nulls/</link>
+      <pubDate>Wed, 01 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/publication/filtenna_mmwave_multiple_radiation_nulls/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Design and Implementation of mmWave Phased-array Radar for Three-dimensional Imaging</title>
+      <link>//localhost:1313/publication/l_shape_radar/</link>
+      <pubDate>Mon, 01 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/publication/l_shape_radar/</guid>
+      <description>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-the-aog-structure&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;AOG.jpg&#34; data-caption=&#34;The AOG structure.&#34;&gt;
+
+
+  &lt;img src=&#34;AOG.jpg&#34; alt=&#34;&#34;  &gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    The AOG structure.
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>2-D Orthogonal Multibeam Antenna Arrays for 5G Millimeter-Wave Applications</title>
+      <link>//localhost:1313/publication/2d_multibeam_antenna/</link>
+      <pubDate>Sat, 16 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/publication/2d_multibeam_antenna/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Broadband Circularly Polarized Magnetoelectric Dipole Antenna and Array for K-Band and Ka-Band Satellite Communications</title>
+      <link>//localhost:1313/publication/broadband_circularly_polarized_me/</link>
+      <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/publication/broadband_circularly_polarized_me/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Millimeter Wave Filtenna with Compact Size for 5G Applications</title>
+      <link>//localhost:1313/publication/single_mode_antenna_element/</link>
+      <pubDate>Tue, 16 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/publication/single_mode_antenna_element/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dual polarized Antenna and Array with Filtering Response and Low Cross Polarization for 5G Millimeter Wave Applications</title>
+      <link>//localhost:1313/publication/dual_polarized_filtenna/</link>
+      <pubDate>Sat, 01 May 2021 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/publication/dual_polarized_filtenna/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Millimeter Wave Broadband Circularly Polarized Antenna and Array with Stacked Structure</title>
+      <link>//localhost:1313/publication/broadband_circularly_polarized_patch/</link>
+      <pubDate>Sat, 01 May 2021 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/publication/broadband_circularly_polarized_patch/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

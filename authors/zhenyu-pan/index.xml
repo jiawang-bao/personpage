@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Zhenyu Pan | Jiawang Li</title>
+    <link>//localhost:1313/authors/zhenyu-pan/</link>
+      <atom:link href="//localhost:1313/authors/zhenyu-pan/index.xml" rel="self" type="application/rss+xml" />
+    <description>Zhenyu Pan</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Aug 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>//localhost:1313/img/ybg.jpg</url>
+      <title>Zhenyu Pan</title>
+      <link>//localhost:1313/authors/zhenyu-pan/</link>
+    </image>
+    
+    <item>
+      <title>Design and Implementation of mmWave Phased-array Radar for Three-dimensional Imaging</title>
+      <link>//localhost:1313/publication/l_shape_radar/</link>
+      <pubDate>Mon, 01 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/publication/l_shape_radar/</guid>
+      <description>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-the-aog-structure&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;AOG.jpg&#34; data-caption=&#34;The AOG structure.&#34;&gt;
+
+
+  &lt;img src=&#34;AOG.jpg&#34; alt=&#34;&#34;  &gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    The AOG structure.
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Millimeter Wave Filtenna with Compact Size for 5G Applications</title>
+      <link>//localhost:1313/publication/single_mode_antenna_element/</link>
+      <pubDate>Tue, 16 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/publication/single_mode_antenna_element/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

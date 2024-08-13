@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Weiyang Kong | Jiawang Li</title>
+    <link>//localhost:1313/authors/weiyang-kong/</link>
+      <atom:link href="//localhost:1313/authors/weiyang-kong/index.xml" rel="self" type="application/rss+xml" />
+    <description>Weiyang Kong</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jul 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>//localhost:1313/img/ybg.jpg</url>
+      <title>Weiyang Kong</title>
+      <link>//localhost:1313/authors/weiyang-kong/</link>
+    </image>
+    
+    <item>
+      <title>Broadband Circularly Polarized Magnetoelectric Dipole Antenna and Array for K-Band and Ka-Band Satellite Communications</title>
+      <link>//localhost:1313/publication/broadband_circularly_polarized_me/</link>
+      <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/publication/broadband_circularly_polarized_me/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

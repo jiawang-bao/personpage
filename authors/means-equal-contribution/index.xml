@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>(*Means Equal Contribution) | Jiawang Li</title>
+    <link>//localhost:1313/authors/means-equal-contribution/</link>
+      <atom:link href="//localhost:1313/authors/means-equal-contribution/index.xml" rel="self" type="application/rss+xml" />
+    <description>(*Means Equal Contribution)</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 16 Jul 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>//localhost:1313/img/ybg.jpg</url>
+      <title>(*Means Equal Contribution)</title>
+      <link>//localhost:1313/authors/means-equal-contribution/</link>
+    </image>
+    
+    <item>
+      <title>2-D Orthogonal Multibeam Antenna Arrays for 5G Millimeter-Wave Applications</title>
+      <link>//localhost:1313/publication/2d_multibeam_antenna/</link>
+      <pubDate>Sat, 16 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/publication/2d_multibeam_antenna/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Zhi Hui Ma | Jiawang Li</title>
+    <link>//localhost:1313/authors/zhi-hui-ma/</link>
+      <atom:link href="//localhost:1313/authors/zhi-hui-ma/index.xml" rel="self" type="application/rss+xml" />
+    <description>Zhi Hui Ma</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 May 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>//localhost:1313/img/ybg.jpg</url>
+      <title>Zhi Hui Ma</title>
+      <link>//localhost:1313/authors/zhi-hui-ma/</link>
+    </image>
+    
+    <item>
+      <title>Millimeter Wave Broadband Circularly Polarized Antenna and Array with Stacked Structure</title>
+      <link>//localhost:1313/publication/broadband_circularly_polarized_patch/</link>
+      <pubDate>Sat, 01 May 2021 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/publication/broadband_circularly_polarized_patch/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

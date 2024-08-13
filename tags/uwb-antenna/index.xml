@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>UWB Antenna | Jiawang Li</title>
+    <link>//localhost:1313/tags/uwb-antenna/</link>
+      <atom:link href="//localhost:1313/tags/uwb-antenna/index.xml" rel="self" type="application/rss+xml" />
+    <description>UWB Antenna</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 May 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>//localhost:1313/img/ybg.jpg</url>
+      <title>UWB Antenna</title>
+      <link>//localhost:1313/tags/uwb-antenna/</link>
+    </image>
+    
+    <item>
+      <title>Millimeter-Wave Ultrawideband Antenna With Hybrid-Mode Resonance Including Microstrip Line, Slot, Patches, and Quasi-Monopole Modes</title>
+      <link>//localhost:1313/publication/uwb_hybrid_mode/</link>
+      <pubDate>Wed, 01 May 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/publication/uwb_hybrid_mode/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Low-Profile UWB Millimeter-Wave Antenna Array Under Triple Resonant Modes Based on PCB Technology</title>
+      <link>//localhost:1313/publication/uwb_triple_modes/</link>
+      <pubDate>Sat, 16 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/publication/uwb_triple_modes/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

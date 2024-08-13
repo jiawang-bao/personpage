@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Others | Jiawang Li</title>
+    <link>//localhost:1313/tags/others/</link>
+      <atom:link href="//localhost:1313/tags/others/index.xml" rel="self" type="application/rss+xml" />
+    <description>Others</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 27 Mar 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>//localhost:1313/img/ybg.jpg</url>
+      <title>Others</title>
+      <link>//localhost:1313/tags/others/</link>
+    </image>
+    
+    <item>
+      <title>Radar application signal processing and power management board</title>
+      <link>//localhost:1313/project/radar_power/</link>
+      <pubDate>Wed, 27 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/project/radar_power/</guid>
+      <description>&lt;p&gt;I designed the signal processing board and the power management board for the entire system for a certain radar project, and finally debugged it successfully.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Ultra-wideband spectrum detection system</title>
+      <link>//localhost:1313/project/uwb_spectrum_detection/</link>
+      <pubDate>Fri, 27 Oct 2017 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/project/uwb_spectrum_detection/</guid>
+      <description>&lt;p&gt;We have designed a commercially available ultra-wideband spectrum detection system with a spectrum detection range up to 18GHz. Through the logic control between radio frequency devices, switching between multiple frequency bands is achieved. The entire system is relatively complex and was completed by 8 people, including RF front-end design, signal acquisition and processing, data transmission and storage, and final real-time display on the host computer.I am mainly responsible for the logic control and signal processing part.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Benefit Analysis of Multi-Channel Radar Angular Resolution Based on Txx platform</title>
+      <link>//localhost:1313/project/77ghz_radar_system/</link>
+      <pubDate>Sun, 27 Aug 2017 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/project/77ghz_radar_system/</guid>
+      <description>&lt;p&gt;Based on the Txx millimeter-wave radar platform, systematically analyzed the points formed within the human body by the millimeter-wave MIMO radar with the increase in the number of channels and the change in the number of solution angles under different angles, different distances, and different attitudes of the human body point cloud Quantity Benefit Analysis.&lt;/p&gt;
+&lt;p&gt;The figure shows only the change in the number of point clouds formed by static and moving human bodies under the current signal processing flow. From the results, it can be seen that moving targets can bring about an increase in the number of detected targets in the Doppler dimension. Provide more target point clouds.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

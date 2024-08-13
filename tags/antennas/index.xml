@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Antennas | Jiawang Li</title>
+    <link>//localhost:1313/tags/antennas/</link>
+      <atom:link href="//localhost:1313/tags/antennas/index.xml" rel="self" type="application/rss+xml" />
+    <description>Antennas</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 25 Mar 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>//localhost:1313/img/ybg.jpg</url>
+      <title>Antennas</title>
+      <link>//localhost:1313/tags/antennas/</link>
+    </image>
+    
+    <item>
+      <title>Filtenna and filtenna array based on single mode resonator</title>
+      <link>//localhost:1313/project/filtenna_phased_array/</link>
+      <pubDate>Thu, 25 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/project/filtenna_phased_array/</guid>
+      <description>&lt;p&gt;Aiming at the insertion loss problem caused by the filter in the millimeter wave transceiver, a millimeter wave filter antenna and a related phased array antenna design based on a single mode resonator are proposed.The average gain of the simulated antenna is 5.5dBi, and the actual measurement and simulation are in good agreement. The upper sideband suppression of the antenna exceeds 30dB, and the lower sideband suppression exceeds 10dB. The antenna has a steeper cut-off frequency band.Compared with other types of filter antennas, the filter antennas designed in this chapter have a simpler structure, more radiation nulls, relatively fewer stacks and lower cost, higher upper sideband rejection, lower profile, and lower cost. The wide working bandwidth basically covers the 24.25~29.5GHz 5G millimeter wave frequency band at home and abroad, and has high application value.In order to verify the scanability of the antenna based on the single-mode resonator filter,A 4×4 antenna array is designed through the combination of beamforming chips and antennas, and two voltage regulators and 4 beamforming chips are integrated on the board. Each forming chip contains 4 channels, each Each channel is connected to the corresponding antenna unit, and a circle of dummy elements are placed around the active antenna array, and each dummy element is connected to a 50-ohm matching resistor to simulate the surrounding environment of the antenna. Divider, the power divider has a 100 ohm resistor connected to the internal blind hole soldering to achieve good isolation between channels.The antenna test is directly obtained by using a network analyzer. One port is connected to the test antenna, and the other port is connected to the standard horn antenna (21.7~33GHz). The gain of the standard horn antenna in the band is basically stable. When calibrating the phased array beam pointing, 26GHz is used for calibration Center, so the filter characteristics of the antenna under test can be obtained directly.This filtering characteristic combines the filtering characteristics of the antenna itself, the gain unbalance characteristic between different channels of the chip, the gain drop characteristic of the chip on both sides of the frequency band, and the gain drop characteristic caused by the inconsistency of the frequency band of the receiving speaker.The large gain fluctuation in the band is mainly due to the inductive or capacitive output impedance of the chip. When it is connected with the relatively sudden impedance of the filter antenna, it is easy to cause a large impedance mismatch at some frequencies, resulting in a large jitter in the band. . The gain trend of the active filter antenna array is basically the same as that of the chip gain, indicating that the final in-band filtering characteristics of the array mainly depend on the gain flatness of the chip.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Stacked patches filtenna and single-layer filtenna</title>
+      <link>//localhost:1313/project/stacked-patches-filtenna/</link>
+      <pubDate>Tue, 05 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/project/stacked-patches-filtenna/</guid>
+      <description>&lt;p&gt;The first type of antenna is based on short-circuit via loading, which disturbs the current distribution on the surface of the driven patch at the bottom side band, and introduces a filter antenna with additional zero points.Covering the 24.25~29.5GHz 5G millimeter wave broadband communication frequency band.It has the characteristics of broadband, low profile, simple structure, and multiple radiation nulls, and is very suitable for 5G millimeter wave broadband communication applications.&lt;/p&gt;
+&lt;p&gt;The second filter antenna is based on a single-layer PCB structure that strategically adjusts the position of the feed point to excite a directional pattern of radiation in-band, while the pattern generated out-of-band can well make the The electric fields cancel each other out, basically no radiation is formed to the outside.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure &gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;board.png&#34; &gt;
+
+
+  &lt;img src=&#34;board.png&#34; alt=&#34;&#34;  &gt;
+&lt;/a&gt;
+
+
+
+&lt;/figure&gt;
+
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Guangwen Jin | Jiawang Li</title>
+    <link>//localhost:1313/authors/guangwen-jin/</link>
+      <atom:link href="//localhost:1313/authors/guangwen-jin/index.xml" rel="self" type="application/rss+xml" />
+    <description>Guangwen Jin</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 16 Nov 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>//localhost:1313/img/ybg.jpg</url>
+      <title>Guangwen Jin</title>
+      <link>//localhost:1313/authors/guangwen-jin/</link>
+    </image>
+    
+    <item>
+      <title>Millimeter Wave Filtenna with Compact Size for 5G Applications</title>
+      <link>//localhost:1313/publication/single_mode_antenna_element/</link>
+      <pubDate>Tue, 16 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/publication/single_mode_antenna_element/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

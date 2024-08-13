@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Xin Yu Wu | Jiawang Li</title>
+    <link>//localhost:1313/authors/xin-yu-wu/</link>
+      <atom:link href="//localhost:1313/authors/xin-yu-wu/index.xml" rel="self" type="application/rss+xml" />
+    <description>Xin Yu Wu</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jun 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>//localhost:1313/img/ybg.jpg</url>
+      <title>Xin Yu Wu</title>
+      <link>//localhost:1313/authors/xin-yu-wu/</link>
+    </image>
+    
+    <item>
+      <title>Single-layer Millimeter Wave Filtenna with Quasi- Elliptic Gain Response Under Dual-mode Resonance</title>
+      <link>//localhost:1313/publication/single-layer-millimeter-wave-filtenna/</link>
+      <pubDate>Sat, 01 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/publication/single-layer-millimeter-wave-filtenna/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

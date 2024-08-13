@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Phased Array Antenna | Jiawang Li</title>
+    <link>//localhost:1313/tags/phased-array-antenna/</link>
+      <atom:link href="//localhost:1313/tags/phased-array-antenna/index.xml" rel="self" type="application/rss+xml" />
+    <description>Phased Array Antenna</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Nov 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>//localhost:1313/img/ybg.jpg</url>
+      <title>Phased Array Antenna</title>
+      <link>//localhost:1313/tags/phased-array-antenna/</link>
+    </image>
+    
+    <item>
+      <title>A Miniaturized Dual-Polarized Active Phased Array Antenna for 5G Millimeter-Wave Applications</title>
+      <link>//localhost:1313/publication/miniaturized_dual_polarized_phased_array/</link>
+      <pubDate>Wed, 01 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/publication/miniaturized_dual_polarized_phased_array/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

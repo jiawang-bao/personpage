@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yuanwei Zhu | Jiawang Li</title>
+    <link>//localhost:1313/authors/yuanwei-zhu/</link>
+      <atom:link href="//localhost:1313/authors/yuanwei-zhu/index.xml" rel="self" type="application/rss+xml" />
+    <description>Yuanwei Zhu</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 May 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>//localhost:1313/img/ybg.jpg</url>
+      <title>Yuanwei Zhu</title>
+      <link>//localhost:1313/authors/yuanwei-zhu/</link>
+    </image>
+    
+    <item>
+      <title>Millimeter-Wave Ultrawideband Antenna With Hybrid-Mode Resonance Including Microstrip Line, Slot, Patches, and Quasi-Monopole Modes</title>
+      <link>//localhost:1313/publication/uwb_hybrid_mode/</link>
+      <pubDate>Wed, 01 May 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/publication/uwb_hybrid_mode/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Low-Profile UWB Millimeter-Wave Antenna Array Under Triple Resonant Modes Based on PCB Technology</title>
+      <link>//localhost:1313/publication/uwb_triple_modes/</link>
+      <pubDate>Sat, 16 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/publication/uwb_triple_modes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Miniaturized Dual-Polarized Active Phased Array Antenna for 5G Millimeter-Wave Applications</title>
+      <link>//localhost:1313/publication/miniaturized_dual_polarized_phased_array/</link>
+      <pubDate>Wed, 01 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/publication/miniaturized_dual_polarized_phased_array/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Millimeter-wave filtenna for 5G application with multiple controllable radiation nulls and wide stopband</title>
+      <link>//localhost:1313/publication/filtenna_mmwave_multiple_radiation_nulls/</link>
+      <pubDate>Wed, 01 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/publication/filtenna_mmwave_multiple_radiation_nulls/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Design and Implementation of mmWave Phased-array Radar for Three-dimensional Imaging</title>
+      <link>//localhost:1313/publication/l_shape_radar/</link>
+      <pubDate>Mon, 01 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/publication/l_shape_radar/</guid>
+      <description>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-the-aog-structure&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;AOG.jpg&#34; data-caption=&#34;The AOG structure.&#34;&gt;
+
+
+  &lt;img src=&#34;AOG.jpg&#34; alt=&#34;&#34;  &gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    The AOG structure.
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+</description>
+    </item>
+    
+  </channel>
+</rss>

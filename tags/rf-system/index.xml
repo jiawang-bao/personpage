@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>RF System | Jiawang Li</title>
+    <link>//localhost:1313/tags/rf-system/</link>
+      <atom:link href="//localhost:1313/tags/rf-system/index.xml" rel="self" type="application/rss+xml" />
+    <description>RF System</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 15 Dec 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>//localhost:1313/img/ybg.jpg</url>
+      <title>RF System</title>
+      <link>//localhost:1313/tags/rf-system/</link>
+    </image>
+    
+    <item>
+      <title>L-Shape Highly Integrated Millimeter wave Phased Array Imaging System</title>
+      <link>//localhost:1313/project/l_shape_radar/</link>
+      <pubDate>Wed, 15 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/project/l_shape_radar/</guid>
+      <description>&lt;p&gt;A highly integrated millimeter-wave radar imaging system based on L-shaped antenna array is proposed and implemented.The system is based on the frequency modulation continuous wave phased array system, and consists of a frequency sweep source, a transmitting and receiving link, and a beamforming antenna with the function of transmitting and receiving switching.The antenna adopts a microstrip antenna, and the unit is designed to have a wide beam pattern, which is convenient for wide-angle scanning during the line array scanning process.When the radar system is working, first use the phase shifter of the transmitting channel in the beamforming chip to deflect the beam at a specific angle, and then the receiving link traverses through scanning N beams to find the target, and the echo data at this time is 1×N In the form of a matrix, the direction of the transmitting beam is changed until the entire imaging target is searched, and the received intermediate frequency reflects the distance information of the imaging target.With the wide application of millimeter-wave beamforming chips, compared with imaging systems using multi-beam systems, too many radio frequency channels and baseband ADCs are saved, and the overall integration level is improved. While ensuring a certain imaging accuracy , which greatly reduces the imaging cost.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Miniaturized Millimeter wave Base Station Platform</title>
+      <link>//localhost:1313/project/miniaturized_phased_array/</link>
+      <pubDate>Sun, 27 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/project/miniaturized_phased_array/</guid>
+      <description>&lt;p&gt;A wide bandwidth angular scanning phased array antenna array working in 24.25~29.5GHz is proposed.The antenna is based on the mixed mode of monopole antenna and microstrip antenna, adding a symmetrical monopole antenna around the traditional microstrip antenna, extending the previous ±45° scan to ±60°.At the same time, in order to achieve miniaturization, on the basis of not affecting the performance of the antenna, the size of the antenna unit is set to 4mm×4mm, and the polarization isolation under the same unit can reach 20dB.At the same time, in order to further improve the isolation between units and avoid the occurrence of scanning blind spots, the defect-in-ground (DGS) technology is adopted to effectively remove the scanning blind spots in the band.As a verification, an 8×8 scale highly integrated phased array antenna array using beamforming chip phase shifting was designed and tested. The whole board achieves a wide operating bandwidth by laying out two different stacked SICL power splitters. Ensures uniformity of power reaching the chip while also ensuring high isolation between the two polarizations.The entire antenna aperture including the surrounding dummy elements is only 4cm×4cm, the measured antenna scanning angle can reach ±60°, and it works in the 5G millimeter wave frequency band, which is very suitable for broadband millimeter wave communication systems such as small base stations.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Large-scale millimeter wave satellite phased array system</title>
+      <link>//localhost:1313/project/32_32_satellite_phased_array/</link>
+      <pubDate>Sat, 31 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/project/32_32_satellite_phased_array/</guid>
+      <description>&lt;p&gt;Abstract: This is a large-scale systematic work to realize a large-scale satellite phased array system with a scale of 32×32 array elements. I participated in the design of the antenna module and feed design, the design of the RF transceiver module, and the development of an ultra-low phase noise dielectric oscillator (an oscillator that is super difficult to resonate).The entire system adopts a discrete antenna design, which is convenient for installation and positioning of antenna performance.
+The entire system works in TDD mode. Each sub-transmission system is responsible for driving four 8-channel beamformers.The entire system can achieve ±50° beam scanning.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Wireless synchronized pulse transmission system</title>
+      <link>//localhost:1313/project/pulse_transmission_system/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/project/pulse_transmission_system/</guid>
+      <description>&lt;p&gt;In the wireless synchronization pulse transmission system, the transmitter sends the received synchronization pulse to the receiver wirelessly, and the receiver processes it and outputs it. The specific indicators are as follows:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;The transmission delay is not greater than 5 microseconds;&lt;/li&gt;
+&lt;li&gt;The peak transmit power is no more than 1 watt;&lt;/li&gt;
+&lt;li&gt;The transmission distance is not less than 1 km;&lt;/li&gt;
+&lt;li&gt;The size of the signal processing board should be as small as possible, and the power supply voltage should be 12V;&lt;/li&gt;
+&lt;li&gt;The synchronous start pulse detection probability is not less than 99.9%, and the false alarm probability is not more than 1%;&lt;/li&gt;
+&lt;li&gt;It can realize the work of one master and multiple slaves, and the number of slaves is not less than 8.&lt;/li&gt;
+&lt;/ol&gt;
+
+
+
+
+  
+  
+
+
+
+
+
+  
+
+
+
+
+
+  
+
+
+&lt;video controls &gt;
+  &lt;source src=&#34;//localhost:1313/img/11.mp4&#34; type=&#34;video/mp4&#34;&gt;
+&lt;/video&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

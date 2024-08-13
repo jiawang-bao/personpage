@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lei Xiang | Jiawang Li</title>
+    <link>//localhost:1313/authors/lei-xiang/</link>
+      <atom:link href="//localhost:1313/authors/lei-xiang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Lei Xiang</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jun 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>//localhost:1313/img/ybg.jpg</url>
+      <title>Lei Xiang</title>
+      <link>//localhost:1313/authors/lei-xiang/</link>
+    </image>
+    
+    <item>
+      <title>Single-layer Millimeter Wave Filtenna with Quasi- Elliptic Gain Response Under Dual-mode Resonance</title>
+      <link>//localhost:1313/publication/single-layer-millimeter-wave-filtenna/</link>
+      <pubDate>Sat, 01 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/publication/single-layer-millimeter-wave-filtenna/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Broadband Circularly Polarized Magnetoelectric Dipole Antenna and Array for K-Band and Ka-Band Satellite Communications</title>
+      <link>//localhost:1313/publication/broadband_circularly_polarized_me/</link>
+      <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/publication/broadband_circularly_polarized_me/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Millimeter Wave Filtenna with Compact Size for 5G Applications</title>
+      <link>//localhost:1313/publication/single_mode_antenna_element/</link>
+      <pubDate>Tue, 16 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/publication/single_mode_antenna_element/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dual polarized Antenna and Array with Filtering Response and Low Cross Polarization for 5G Millimeter Wave Applications</title>
+      <link>//localhost:1313/publication/dual_polarized_filtenna/</link>
+      <pubDate>Sat, 01 May 2021 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/publication/dual_polarized_filtenna/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Millimeter Wave Broadband Circularly Polarized Antenna and Array with Stacked Structure</title>
+      <link>//localhost:1313/publication/broadband_circularly_polarized_patch/</link>
+      <pubDate>Sat, 01 May 2021 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/publication/broadband_circularly_polarized_patch/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

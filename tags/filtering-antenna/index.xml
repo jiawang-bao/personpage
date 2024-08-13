@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Filtering Antenna | Jiawang Li</title>
+    <link>//localhost:1313/tags/filtering-antenna/</link>
+      <atom:link href="//localhost:1313/tags/filtering-antenna/index.xml" rel="self" type="application/rss+xml" />
+    <description>Filtering Antenna</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jun 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>//localhost:1313/img/ybg.jpg</url>
+      <title>Filtering Antenna</title>
+      <link>//localhost:1313/tags/filtering-antenna/</link>
+    </image>
+    
+    <item>
+      <title>Single-layer Millimeter Wave Filtenna with Quasi- Elliptic Gain Response Under Dual-mode Resonance</title>
+      <link>//localhost:1313/publication/single-layer-millimeter-wave-filtenna/</link>
+      <pubDate>Sat, 01 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/publication/single-layer-millimeter-wave-filtenna/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Millimeter-wave filtenna for 5G application with multiple controllable radiation nulls and wide stopband</title>
+      <link>//localhost:1313/publication/filtenna_mmwave_multiple_radiation_nulls/</link>
+      <pubDate>Wed, 01 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/publication/filtenna_mmwave_multiple_radiation_nulls/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Millimeter Wave Filtenna with Compact Size for 5G Applications</title>
+      <link>//localhost:1313/publication/single_mode_antenna_element/</link>
+      <pubDate>Tue, 16 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/publication/single_mode_antenna_element/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
